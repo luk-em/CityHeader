@@ -10,7 +10,7 @@ body {
 
 header {
     height: 80vh;
-    background-image: url(/img/city.jpg);
+    background-image: url("https://luk-em.github.io/CityHeader/img/city.jpg");
     margin: 0 auto;
     background-position: bottom;
     background-attachment: fixed;
