@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 200vh;
+}
+
+header {
+    height: 80vh;
+    background-image: url(/img/city.jpg);
+    margin: 0 auto;
+    background-position: bottom;
+    background-attachment: fixed;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    position: absolute;
+    font-family: arial;
+    font-size: 80px;
+    color: white;
+    bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 100%;
+    text-align: center
+}
+
+section {
+
+    font-family: verdana;
+    line-height: 190%;
+    text-align: justify;
+    width: 90%;
+    margin: 100px auto 0 auto;
+}
